@@ -1,0 +1,29 @@
+<Doctype! html>
+<html>
+    <head>
+        <title>Tutorials in my webpage</title>
+        <link rel="stylesheet" href="c2.css">
+    </head>
+    <body>
+        <h1><center>The Essential Micro Nutrients For All Age Group</center></h1><br><br>
+        <h2>Pregnancy & Breasfeeding Support</h2>
+        <ul>
+            <li><b>Folic acid</b> and<b>Vitamin B-12</b> supplementation prevents neural tube defects.</li>
+            <li><b>Iron</b> promotes blood formation and prevents anaemia in pregnancy.</li>
+            <li><b>DHA</b> promotes fetal brain and eye development.</li>
+            <li><b>Vitamin D</b> supports the optimal functioning of maternal immune system as well as aids calcium absorption in pregnancy.</li>
+        </ul><br><br>
+        <h3>Fitness Support</h2><br>
+        <ul>
+            <li><b>Vitamin C,D&E</b> are antioxidants that support normal immune function.</li>
+            <li><b>Ginseng & Pantothenic acid</b> help to reduce fatigue and manage stress.</li>
+            <li><b>Gut health:</b> probiotics improve digestion and gut flora to promote overall wellness in men & women.</li>
+        </ul>
+        <h4>Wellness For Infants And Children</h3>
+        <ul>
+            <li><b>Vitamin D</b> promotes growth,immunity and bone development in babies.</li>
+            <li><b>Zinc and Iodine</b> aids immunity and supports cognitive development in children.</li>
+        </ul>
+
+    </body>
+</html>

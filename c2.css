@@ -1,0 +1,9 @@
+/*universal selector*/
+*{background-color: blueviolet;}
+
+/*group selector*/
+h2,h3,h4{background-color: red; font-size: 25px; color: white;}
+
+/*element selector*/
+b{color: yellow;}
+h1{font-size: 50px; color: violet; color: black }
